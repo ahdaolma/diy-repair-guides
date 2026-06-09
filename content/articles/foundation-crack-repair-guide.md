@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Foundation Crack Repair Matters
+![Related image](https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=400&fit=crop)
 
 According to a 2025 survey, 74% of people interested in diy repair find foundation crack repair to be an essential skill. The right knowledge can save significant time and money.
 
@@ -35,6 +36,7 @@ Document what works and what does not. Apply lessons learned to continuously imp
 Quality materials and tools may cost more upfront but deliver better results and last longer.
 
 ## Step-by-Step Guide
+![Related image](https://images.unsplash.com/photo-1503387761673-2c4105ac4a5e?w=800&h=400&fit=crop)
 
 ### Step 1: Assessment and Planning
 Evaluate your current situation. Identify specific needs, set realistic goals, and create a timeline.

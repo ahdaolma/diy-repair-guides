@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Ceiling Fan Installation Matters
+![Related image](https://images.unsplash.com/photo-1581147036324-c1cf7c5d2304?w=800&h=400&fit=crop)
 
 According to a 2025 survey, 63% of people interested in diy repair find ceiling fan installation to be an essential skill. The right knowledge can save significant time and money.
 
@@ -35,6 +36,7 @@ Document what works and what does not. Apply lessons learned to continuously imp
 Quality materials and tools may cost more upfront but deliver better results and last longer.
 
 ## Step-by-Step Guide
+![Related image](https://images.unsplash.com/photo-1581147036324-c1cf7c5d2304?w=800&h=400&fit=crop)
 
 ### Step 1: Assessment and Planning
 Evaluate your current situation. Identify specific needs, set realistic goals, and create a timeline.

@@ -11,6 +11,7 @@ keywords:
 ---
 
 ## Why Fix Window Seal Matters
+![Related image](https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=800&h=400&fit=crop)
 
 According to a 2025 survey, 67% of people interested in diy repair find fix window seal to be an essential skill. The right knowledge can save significant time and money.
 
@@ -35,6 +36,7 @@ Document what works and what does not. Apply lessons learned to continuously imp
 Quality materials and tools may cost more upfront but deliver better results and last longer.
 
 ## Step-by-Step Guide
+![Related image](https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&h=400&fit=crop)
 
 ### Step 1: Assessment and Planning
 Evaluate your current situation. Identify specific needs, set realistic goals, and create a timeline.
