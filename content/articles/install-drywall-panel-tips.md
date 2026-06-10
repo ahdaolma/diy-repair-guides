@@ -13,6 +13,9 @@ keywords:
 
 ## Screw Spacing Chart
 
+![Screw Spacing Chart](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Location | Screw Spacing | Edge Distance |
 |---|---|---|
 | Walls (studs) | Every 16 inches | 3/8 inch from edge |
@@ -24,6 +27,9 @@ Screw depth: head dimples the paper surface without tearing through. Torn paper 
 ---
 
 ## Mud Consistency by Coat
+
+![Mud Consistency by Coat](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
 
 | Coat | Consistency | Knife | Width |
 |---|---|---|---|
@@ -37,6 +43,9 @@ Add water a few drops at a time. Over-thinned mud shrinks and cracks. Pre-mixed 
 ---
 
 ## Tape Types
+
+![Tape Types](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 | Type | Best For | Notes |
 |---|---|---|
@@ -68,3 +77,4 @@ Always sand with a light shining across the surface — shadows reveal imperfect
 | Paper-faced metal | Metal strip in paper | Easy finishing | Mud-applied |
 | Bullnose corner bead | Plastic, rounded | Rounded corners | Nailed or screwed |
 | Vinyl J-bead | Plastic | Edge termination at windows/doors | Stapled |
+

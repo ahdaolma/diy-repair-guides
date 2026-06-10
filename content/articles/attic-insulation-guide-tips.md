@@ -14,6 +14,9 @@ keywords:
 
 ## Climate Zone R-Value Quick Reference
 
+![Climate Zone R-Value Quick Reference](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Zone | Locations | Minimum R-Value | Recommended R-Value | Cellulose Depth |
 |---|---|---|---|---|
 | 1 | Miami, Honolulu | R-30 | R-38 | 11 inches |
@@ -29,6 +32,9 @@ keywords:
 ---
 
 ## Batt vs. Blown-In Comparison
+
+![Batt vs. Blown-In Comparison](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
 
 | Factor | Fiberglass Batt | Blown-In Cellulose |
 |---|---|---|
@@ -46,6 +52,9 @@ keywords:
 ---
 
 ## Air Sealing Checklist (DO THIS FIRST)
+
+![Air Sealing Checklist (DO THIS FIRST)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 - [ ] Recessed can lights: upgraded to IC-AT rated or boxed with drywall and fire caulk
 - [ ] Plumbing vent pipes: sealed with high-temp silicone around PVC; aluminum flashing + high-temp caulk around metal flues
@@ -101,3 +110,4 @@ keywords:
 - Vermiculite insulation present (pre-1990) — may contain asbestos (Zonolite brand from Libby, Montana mine). Do NOT disturb. Have it tested ($50 mail-in kit). If positive, professional asbestos abatement required ($3,000-$8,000).
 - Roof leaks present — fix before insulating. Wet cellulose collapses ceilings.
 - Cannot physically work in attic (cramped space, extreme heat, limited mobility) — professional installation costs $2,000-$4,000. The DIY savings are substantial but only if you can safely do the work.
+

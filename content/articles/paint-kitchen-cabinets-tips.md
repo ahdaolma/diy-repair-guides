@@ -14,13 +14,22 @@ keywords:
 
 ## Degrease Like Your Paint Job Depends on It—Because It Does
 
+![Degrease Like Your Paint Job Depends on It—Because It Does](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 Kitchen cabinets accumulate a film of polymerized cooking oil that is invisible but tenacious. If you paint over it, the paint fisheyes (forms craters) or peels in sheets. Scrub every surface with TSP or Krud Kutter and a Scotch-Brite pad. Rinse until the water runs clear. Pay extra attention to the area above the stove and the pull edges of doors and drawers—the greasiest spots. If the rinse water is brown, keep scrubbing. Paint bonds to the surface, and if that surface is grease, it bonds to nothing.
 
 ## Use a Bonding Primer, Not a Wall Primer
 
+![Use a Bonding Primer, Not a Wall Primer](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 Standard latex drywall primer is designed for porous drywall, not for the glossy factory finish on cabinets. It will peel. Use a high-bond primer: Zinsser BIN (shellac-based, the gold standard—bonds to anything, dries in 45 minutes, intense odor) or Zinsser Stix (water-based urethane, nearly as effective, less odor). One coat of the right primer bonds better than three coats of the wrong one. BIN also blocks wood tannins—critical for oak cabinets, which bleed yellow-brown stains through latex primer and paint.
 
 ## Label Every Door Before Removing
+
+![Label Every Door Before Removing](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 Number each door and drawer front with painter's tape on the hinge edge, and mark the cabinet opening with the same number. Hinges and doors wear into each other over years of use—door 3 on opening 7 will not close flush without readjustment. Place all hardware from each door in a labeled plastic bag taped to the door. This 10-minute organizational step saves hours of trial-and-error during reassembly. Reinstalling 20 doors with mislabeled hardware is a special kind of frustration.
 
@@ -39,3 +48,4 @@ Benjamin Moore Advance and similar water-based alkyd paints feel dry in 2 hours 
 ## Cure for 2 Weeks Before Heavy Use
 
 Cabinet paint takes 7–14 days to fully cure—the paint film continues to cross-link and harden long after it feels dry. During this period, it is soft and easily damaged. Do not slam doors. Do not clean the cabinets. Be gentle. After 30 days, the finish reaches maximum hardness. This cure time is not stated prominently on the can, and ignoring it is the reason many DIY cabinet paint jobs chip at the edges within the first month. Patience during curing turns a good paint job into a durable one.
+

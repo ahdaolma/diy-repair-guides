@@ -14,6 +14,9 @@ keywords:
 
 ## Size vs. Permit Threshold (Common US Limits)
 
+![Size vs. Permit Threshold (Common US Limits)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Shed Size | Sq Ft | Permit Usually Required? | Notes |
 |---|---|---|---|
 | 6x8 | 48 | No | Smallest practical size. Fits a lawnmower + tools. |
@@ -27,6 +30,9 @@ keywords:
 
 ## Foundation Options Ranked
 
+![Foundation Options Ranked](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 | Type | Cost | Difficulty | Lifespan | Best For |
 |---|---|---|---|---|
 | Concrete pier blocks on gravel | $150 | ★★☆☆☆ | 20+ years | Flat ground, sheds under 120 sq ft |
@@ -39,6 +45,9 @@ keywords:
 ---
 
 ## Material Cost Estimator (Per Square Foot)
+
+![Material Cost Estimator (Per Square Foot)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 | Component | Cost/Sq Ft |
 |---|---|
@@ -77,3 +86,4 @@ Multiply by your shed's square footage for a rough material estimate. Add 15% fo
 - [ ] Check building permit threshold for your municipality. Get confirmation in writing.
 - [ ] Check overhead utility lines — nothing within 10 feet horizontally of the shed. If power lines are overhead, the shed must be well clear.
 - [ ] Consider drainage: don't build in a low spot where water pools after rain. The shed floor will rot from below.
+

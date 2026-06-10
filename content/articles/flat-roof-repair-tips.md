@@ -13,6 +13,9 @@ keywords:
 
 ## Material Identification Quick Guide
 
+![Material Identification Quick Guide](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Look | Material | Repair Product |
 |---|---|---|
 | Black, smooth rubber, flexible | EPDM | Firestone EPDM Repair Kit ($30) + Primer ($15) |
@@ -25,6 +28,9 @@ keywords:
 
 ## EPDM Patch Kit Comparison
 
+![EPDM Patch Kit Comparison](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 | Kit | Price | Includes | Best For |
 |---|---|---|---|
 | Firestone QuickSeam Repair Kit | $30 | 6-inch patch, primer, seam tape | Punctures under 3 inches |
@@ -35,6 +41,9 @@ keywords:
 ---
 
 ## Leak Tracing Method
+
+![Leak Tracing Method](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 1. Check penetrations first (vents, curbs, skylights) — 90% of leaks here
 2. Look for ponding water (stands 48+ hours after rain) — membrane degrades faster when submerged
@@ -63,3 +72,4 @@ keywords:
 - Ponding covers more than 20% of roof
 - Insulation below membrane is waterlogged (squishy when you walk)
 - Repair costs exceed 30% of full replacement ($2,500-$4,500 for a typical residential flat roof patch vs $8,000-$15,000 replacement)
+

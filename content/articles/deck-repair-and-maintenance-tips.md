@@ -14,13 +14,22 @@ keywords:
 
 ## Replace Nails With Deck Screws—Every Time
 
+![Replace Nails With Deck Screws—Every Time](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 A popped nail that you pound back down will pop again within weeks. The hole is wallowed out—the nail has zero holding power. Remove the nail and drive a coated deck screw (2½–3 inches) into the same hole. The screw threads bite fresh wood. If the screw does not grip (wood too degraded), drill the hole, glue in a hardwood dowel, and screw into the dowel. This is a permanent fix. Keep a box of deck screws and a drill handy—5 minutes of proactive screw replacement prevents hours of board replacement later.
 
 ## Check the Ledger Board Annually
 
+![Check the Ledger Board Annually](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 The ledger board is the horizontal board where the deck attaches to the house. It is the most critical structural connection and the most common rot location because water splashes against the house and sits on top of the ledger. Inspect it: probe the wood with a screwdriver or awl. If the tool sinks in easily, the wood is rotted. Also check the flashing—the metal strip that directs water away from the ledger-to-house joint. Flashing that is missing, pulled away, or caulked over with hardened caulk is not protecting the ledger. A rotted ledger is a deck collapse waiting to happen. If you find rot, stop using the deck and call a professional.
 
 ## Do Not Stain New Pressure-Treated Wood Immediately
+
+![Do Not Stain New Pressure-Treated Wood Immediately](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 New pressure-treated lumber is saturated with water and preservative chemicals. Stain applied to wet wood will not absorb and will peel within weeks. Let new PT wood dry for 3–6 months, depending on climate and sun exposure. Test readiness: sprinkle water on the surface. If it beads up, wait. If it soaks in within a few seconds, the wood is ready to stain. For existing decks being re-stained, the surface must be dry—wait 48 hours after rain or washing.
 
@@ -31,3 +40,4 @@ Penetrating oil-based or hybrid stains soak into the wood fibers and do not form
 ## Never Pressure-Wash a Wood Deck
 
 Pressure washers erode the soft springwood between the grain lines, leaving the deck permanently rough, splintery, and more absorbent. Use a garden hose with a jet nozzle and a stiff brush, or an oxygen-bleach deck cleaner applied with a pump sprayer. If a pressure washer is absolutely necessary, use the widest fan tip (40 degrees), keep the nozzle at least 12 inches from the surface, and move continuously. But a garden hose and elbow grease produce a better, safer result.
+

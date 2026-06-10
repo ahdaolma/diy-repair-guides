@@ -13,6 +13,9 @@ keywords:
 
 ## Diagnose the Leak by Location
 
+![Diagnose the Leak by Location](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Stain Location | Most Likely Source | DIY Fix Cost |
 |---|---|---|
 | Center of ceiling, no walls nearby | Damaged/missing shingle | $10-$25 |
@@ -28,6 +31,9 @@ keywords:
 ---
 
 ## Emergency Tarp Procedure (30 Minutes)
+
+![Emergency Tarp Procedure (30 Minutes)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
 
 **Materials:**
 - Heavy-duty tarp (12x16 minimum, $25)
@@ -52,6 +58,9 @@ keywords:
 ---
 
 ## $50 Roof Repair Kit (Keep in Garage)
+
+![$50 Roof Repair Kit (Keep in Garage)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 | Item | Cost |
 |---|---|
@@ -95,3 +104,4 @@ With this kit, you can fix 90% of common roof leaks in under an hour.
 - Leak that has been active for months (mold in attic, structural damage)
 - Roof pitch steeper than 8:12 (too steep to walk safely without harness + roof jacks)
 - You're not comfortable on a ladder/roof — a $250 roofer visit is cheaper than a fall
+

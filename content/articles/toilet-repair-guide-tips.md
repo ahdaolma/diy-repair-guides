@@ -13,6 +13,9 @@ keywords:
 
 ## Universal Replacement Parts
 
+![Universal Replacement Parts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Part | Model | Price | Fits |
 |---|---|---|---|
 | Flapper | Fluidmaster 502 | $8 | Most toilets (universal) |
@@ -27,6 +30,9 @@ keywords:
 
 ## Water Waste Calculator
 
+![Water Waste Calculator](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 | Leak Type | Gallons/Day | Gallons/Year | Annual Cost |
 |---|---|---|---|
 | Silent flapper leak (visible with dye) | 50-200 | 18,250-73,000 | $91-$365 |
@@ -38,6 +44,9 @@ At $5 per 1,000 gallons (national average). A running toilet can literally flush
 ---
 
 ## Quick Diagnosis
+
+![Quick Diagnosis](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 | Symptom | Test | Cause | Fix |
 |---|---|---|---|
@@ -56,3 +65,4 @@ At $5 per 1,000 gallons (national average). A running toilet can literally flush
 - NEVER use bleach drop-in tablets in the tank (destroy flapper in 6 months)
 - NEVER overtighten toilet base bolts (cracks porcelain — $150+ replacement)
 - NEVER caulk around the ENTIRE base of a toilet — leave a 2-inch gap at the BACK. If the wax ring leaks, water from a leak trapped under the toilet rots the subfloor. The gap lets you see water BEFORE it causes structural damage.
+

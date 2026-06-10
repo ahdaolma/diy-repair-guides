@@ -13,6 +13,9 @@ keywords:
 
 ## Quick Diagnosis
 
+![Quick Diagnosis](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 | Symptom | Cause | Fix | Time | Cost |
 |---|---|---|---|---|
 | Hums, no spin | Jammed flywheel | 1/4" hex key in bottom socket, rotate back/forth | 5 min | $2 |
@@ -27,11 +30,17 @@ keywords:
 
 ## Hex Key Size
 
+![Hex Key Size](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 1/4-inch Allen wrench. Every hardware store: $2. If you lost the original disposal wrench, a standard 1/4-inch hex key works on ALL garbage disposals made since 1980.
 
 ---
 
 ## NEVER Put These in a Disposal
+
+![NEVER Put These in a Disposal](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 | Item | Why |
 |---|---|
@@ -65,3 +74,4 @@ keywords:
 | InSinkErator Badger 5 | 1/2 HP | $100 | 3 years |
 
 Installation: 90 minutes with basic tools. Plumber cost: $200-$400.
+
