@@ -1,8 +1,9 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import "./globals.css";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
+  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
   metadataBase: new URL("https://diy-repair-guides.vercel.app"),
   title: { default: "DIY Repair Guides | Fix It Yourself 2026", template: "%s | DIY Repair Guides" },
   description: "Step-by-step DIY home repair guides. Save thousands fixing plumbing, electrical, roofing, flooring, and more yourself.",

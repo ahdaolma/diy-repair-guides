@@ -1,691 +1,691 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://diy-repair-guides.vercel.app</loc>
+    <loc>https://example.com</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles</loc>
+    <loc>https://example.com/articles</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"roofing"</loc>
+    <loc>https://example.com/category/"roofing"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"basement"</loc>
+    <loc>https://example.com/category/"basement"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"general"</loc>
+    <loc>https://example.com/category/"general"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"bathroom"</loc>
+    <loc>https://example.com/category/"bathroom"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"electrical"</loc>
+    <loc>https://example.com/category/"electrical"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"exterior"</loc>
+    <loc>https://example.com/category/"exterior"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"doors"</loc>
+    <loc>https://example.com/category/"doors"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"insulation"</loc>
+    <loc>https://example.com/category/"insulation"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"plumbing"</loc>
+    <loc>https://example.com/category/"plumbing"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"floors"</loc>
+    <loc>https://example.com/category/"floors"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"windows"</loc>
+    <loc>https://example.com/category/"windows"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"foundation"</loc>
+    <loc>https://example.com/category/"foundation"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"walls"</loc>
+    <loc>https://example.com/category/"walls"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"kitchen"</loc>
+    <loc>https://example.com/category/"kitchen"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"painting"</loc>
+    <loc>https://example.com/category/"painting"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/category/"drywall"</loc>
+    <loc>https://example.com/category/"drywall"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/attic-insulation-guide-guide</loc>
+    <loc>https://example.com/articles/attic-insulation-guide-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/attic-insulation-guide-tips</loc>
+    <loc>https://example.com/articles/attic-insulation-guide-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/basement-waterproofing-guide</loc>
+    <loc>https://example.com/articles/basement-waterproofing-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/basement-waterproofing-tips</loc>
+    <loc>https://example.com/articles/basement-waterproofing-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/build-garden-shed-guide</loc>
+    <loc>https://example.com/articles/build-garden-shed-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/build-garden-shed-tips</loc>
+    <loc>https://example.com/articles/build-garden-shed-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/caulking-bathroom-guide</loc>
+    <loc>https://example.com/articles/caulking-bathroom-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/caulking-bathroom-tips</loc>
+    <loc>https://example.com/articles/caulking-bathroom-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/ceiling-fan-installation-guide</loc>
+    <loc>https://example.com/articles/ceiling-fan-installation-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/ceiling-fan-installation-tips</loc>
+    <loc>https://example.com/articles/ceiling-fan-installation-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/clean-gutters-safely-guide</loc>
+    <loc>https://example.com/articles/clean-gutters-safely-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/clean-gutters-safely-tips</loc>
+    <loc>https://example.com/articles/clean-gutters-safely-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/concrete-crack-repair-guide</loc>
+    <loc>https://example.com/articles/concrete-crack-repair-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/concrete-crack-repair-tips</loc>
+    <loc>https://example.com/articles/concrete-crack-repair-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/deck-repair-and-maintenance-guide</loc>
+    <loc>https://example.com/articles/deck-repair-and-maintenance-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/deck-repair-and-maintenance-tips</loc>
+    <loc>https://example.com/articles/deck-repair-and-maintenance-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fence-repair-guide</loc>
+    <loc>https://example.com/articles/fence-repair-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fence-repair-tips</loc>
+    <loc>https://example.com/articles/fence-repair-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-door-hinges-guide</loc>
+    <loc>https://example.com/articles/fix-door-hinges-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-door-hinges-tips</loc>
+    <loc>https://example.com/articles/fix-door-hinges-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-drafty-house-guide</loc>
+    <loc>https://example.com/articles/fix-drafty-house-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-drafty-house-tips</loc>
+    <loc>https://example.com/articles/fix-drafty-house-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-garbage-disposal-guide</loc>
+    <loc>https://example.com/articles/fix-garbage-disposal-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-garbage-disposal-tips</loc>
+    <loc>https://example.com/articles/fix-garbage-disposal-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-leaky-faucet-guide</loc>
+    <loc>https://example.com/articles/fix-leaky-faucet-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-leaky-faucet-tips</loc>
+    <loc>https://example.com/articles/fix-leaky-faucet-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-light-switch-guide</loc>
+    <loc>https://example.com/articles/fix-light-switch-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-light-switch-tips</loc>
+    <loc>https://example.com/articles/fix-light-switch-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-roof-leak-guide</loc>
+    <loc>https://example.com/articles/fix-roof-leak-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-roof-leak-tips</loc>
+    <loc>https://example.com/articles/fix-roof-leak-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-running-toilet-guide</loc>
+    <loc>https://example.com/articles/fix-running-toilet-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-running-toilet-tips</loc>
+    <loc>https://example.com/articles/fix-running-toilet-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-shower-door-leak-guide</loc>
+    <loc>https://example.com/articles/fix-shower-door-leak-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-shower-door-leak-tips</loc>
+    <loc>https://example.com/articles/fix-shower-door-leak-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-sliding-door-guide</loc>
+    <loc>https://example.com/articles/fix-sliding-door-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-sliding-door-tips</loc>
+    <loc>https://example.com/articles/fix-sliding-door-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-squeaky-floor-guide</loc>
+    <loc>https://example.com/articles/fix-squeaky-floor-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-squeaky-floor-tips</loc>
+    <loc>https://example.com/articles/fix-squeaky-floor-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-window-seal-guide</loc>
+    <loc>https://example.com/articles/fix-window-seal-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/fix-window-seal-tips</loc>
+    <loc>https://example.com/articles/fix-window-seal-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/flat-roof-repair-guide</loc>
+    <loc>https://example.com/articles/flat-roof-repair-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/flat-roof-repair-tips</loc>
+    <loc>https://example.com/articles/flat-roof-repair-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/foundation-crack-repair-guide</loc>
+    <loc>https://example.com/articles/foundation-crack-repair-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/foundation-crack-repair-tips</loc>
+    <loc>https://example.com/articles/foundation-crack-repair-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-drywall-panel-guide</loc>
+    <loc>https://example.com/articles/install-drywall-panel-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-drywall-panel-tips</loc>
+    <loc>https://example.com/articles/install-drywall-panel-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-light-fixture-guide</loc>
+    <loc>https://example.com/articles/install-light-fixture-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-light-fixture-tips</loc>
+    <loc>https://example.com/articles/install-light-fixture-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-new-faucet-guide</loc>
+    <loc>https://example.com/articles/install-new-faucet-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-new-faucet-tips</loc>
+    <loc>https://example.com/articles/install-new-faucet-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-tile-backsplash-guide</loc>
+    <loc>https://example.com/articles/install-tile-backsplash-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-tile-backsplash-tips</loc>
+    <loc>https://example.com/articles/install-tile-backsplash-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-vinyl-flooring-guide</loc>
+    <loc>https://example.com/articles/install-vinyl-flooring-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/install-vinyl-flooring-tips</loc>
+    <loc>https://example.com/articles/install-vinyl-flooring-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/insulate-windows-for-winter-guide</loc>
+    <loc>https://example.com/articles/insulate-windows-for-winter-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/insulate-windows-for-winter-tips</loc>
+    <loc>https://example.com/articles/insulate-windows-for-winter-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/interior-painting-tips-guide</loc>
+    <loc>https://example.com/articles/interior-painting-tips-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/interior-painting-tips-tips</loc>
+    <loc>https://example.com/articles/interior-painting-tips-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/paint-ceiling-without-drips-guide</loc>
+    <loc>https://example.com/articles/paint-ceiling-without-drips-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/paint-ceiling-without-drips-tips</loc>
+    <loc>https://example.com/articles/paint-ceiling-without-drips-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/paint-kitchen-cabinets-guide</loc>
+    <loc>https://example.com/articles/paint-kitchen-cabinets-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/paint-kitchen-cabinets-tips</loc>
+    <loc>https://example.com/articles/paint-kitchen-cabinets-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/patch-drywall-hole-guide</loc>
+    <loc>https://example.com/articles/patch-drywall-hole-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/patch-drywall-hole-tips</loc>
+    <loc>https://example.com/articles/patch-drywall-hole-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/remove-wallpaper-guide</loc>
+    <loc>https://example.com/articles/remove-wallpaper-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/remove-wallpaper-tips</loc>
+    <loc>https://example.com/articles/remove-wallpaper-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-door-frame-guide</loc>
+    <loc>https://example.com/articles/repair-door-frame-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-door-frame-tips</loc>
+    <loc>https://example.com/articles/repair-door-frame-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-drywall-crack-guide</loc>
+    <loc>https://example.com/articles/repair-drywall-crack-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-drywall-crack-tips</loc>
+    <loc>https://example.com/articles/repair-drywall-crack-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-grout-in-shower-guide</loc>
+    <loc>https://example.com/articles/repair-grout-in-shower-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-grout-in-shower-tips</loc>
+    <loc>https://example.com/articles/repair-grout-in-shower-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-hardwood-floor-guide</loc>
+    <loc>https://example.com/articles/repair-hardwood-floor-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-hardwood-floor-tips</loc>
+    <loc>https://example.com/articles/repair-hardwood-floor-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-roof-shingles-guide</loc>
+    <loc>https://example.com/articles/repair-roof-shingles-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-roof-shingles-tips</loc>
+    <loc>https://example.com/articles/repair-roof-shingles-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-window-crank-guide</loc>
+    <loc>https://example.com/articles/repair-window-crank-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/repair-window-crank-tips</loc>
+    <loc>https://example.com/articles/repair-window-crank-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-bathroom-tile-guide</loc>
+    <loc>https://example.com/articles/replace-bathroom-tile-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-bathroom-tile-tips</loc>
+    <loc>https://example.com/articles/replace-bathroom-tile-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-door-knob-guide</loc>
+    <loc>https://example.com/articles/replace-door-knob-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-door-knob-tips</loc>
+    <loc>https://example.com/articles/replace-door-knob-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-electrical-outlet-guide</loc>
+    <loc>https://example.com/articles/replace-electrical-outlet-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-electrical-outlet-tips</loc>
+    <loc>https://example.com/articles/replace-electrical-outlet-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-shower-head-guide</loc>
+    <loc>https://example.com/articles/replace-shower-head-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-shower-head-tips</loc>
+    <loc>https://example.com/articles/replace-shower-head-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-toilet-flapper-guide</loc>
+    <loc>https://example.com/articles/replace-toilet-flapper-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-toilet-flapper-tips</loc>
+    <loc>https://example.com/articles/replace-toilet-flapper-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-window-screen-guide</loc>
+    <loc>https://example.com/articles/replace-window-screen-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/replace-window-screen-tips</loc>
+    <loc>https://example.com/articles/replace-window-screen-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/texture-drywall-guide</loc>
+    <loc>https://example.com/articles/texture-drywall-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/texture-drywall-tips</loc>
+    <loc>https://example.com/articles/texture-drywall-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/tile-floor-repair-guide</loc>
+    <loc>https://example.com/articles/tile-floor-repair-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/tile-floor-repair-tips</loc>
+    <loc>https://example.com/articles/tile-floor-repair-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/toilet-repair-guide-guide</loc>
+    <loc>https://example.com/articles/toilet-repair-guide-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/toilet-repair-guide-tips</loc>
+    <loc>https://example.com/articles/toilet-repair-guide-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/unclog-kitchen-sink-guide</loc>
+    <loc>https://example.com/articles/unclog-kitchen-sink-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/unclog-kitchen-sink-tips</loc>
+    <loc>https://example.com/articles/unclog-kitchen-sink-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/unclog-shower-drain-guide</loc>
+    <loc>https://example.com/articles/unclog-shower-drain-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://diy-repair-guides.vercel.app/articles/unclog-shower-drain-tips</loc>
+    <loc>https://example.com/articles/unclog-shower-drain-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
