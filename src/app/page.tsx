@@ -1,6 +1,7 @@
-﻿import { getAllArticles, getCategories } from '@/lib/articles';
+import { getAllArticles, getCategories } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
 import ArticleCard from '@/components/ArticleCard';
+import PopularArticles from '@/components/PopularArticles';
 
 function getDifficulty(article: any) {
   const mins = article.readTime || 5;
