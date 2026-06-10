@@ -112,6 +112,8 @@ export default async function HomePage() {
 
         <AdSlot id='home-middle' />
 
+        <PopularArticles />
+
         {/* Latest with difficulty badges */}
         <section className='my-16'>
           <h2 className="text-2xl font-black text-orange-100 mb-8 border-b-2 border-orange-600/20 pb-4 flex items-center gap-3">
