@@ -1,94 +1,63 @@
----
-title: "How to Fence Repair: Complete Guide for Beginners"
-excerpt: "Learn everything about fence repair with our comprehensive guide. Expert advice and practical tips."
-category: "Windows"
-date: "2026-06-08"
-readTime: 5
+﻿---
+title: "How to Repair a Fence: Posts, Rails, Pickets, and Gates"
+excerpt: "Fix leaning, rotted, or broken fence sections. Covers replacing rotted posts, resetting leaning posts with concrete, replacing broken pickets and rails, and gate sag repair."
+category: "Exterior"
+date: "2026-06-07"
+readTime: 7
 keywords:
-  - fence
-  - repair
+  - fence repair
+  - replace fence post
+  - leaning fence
+  - gate repair
+  - rotted post
 ---
 
-## Why Fence Repair Matters
-![Related image](https://images.unsplash.com/photo-1581147036324-c1cf7c5d2304?w=800&h=400&fit=crop)
+## Diagnose the Problem
+![Digging out an old rotted fence post](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.EDI3Uh06jmtaYvrsdYoWtgHaEK%3Fpid%3DApi&f=1&ipt=a2b4c014ee08456f8611d971463f29c62fa80289617207de1cc3587cc813da14&ipo=images)
 
-According to a 2025 survey, 74% of people interested in diy repair find fence repair to be an essential skill. The right knowledge can save significant time and money.
+Wood fence problems almost always trace back to the posts. The posts carry the entire structural load—wind against the fence face transfers to the posts, which must resist bending at ground level. When a post rots at the soil line or the concrete footing cracks, the fence leans. Replacing rotted pickets or rails without addressing the post is painting over rust.
 
-### Real Case Study
+- **Fence leaning in one direction (entire section):** A post has rotted at ground level or the concrete footing has cracked and the post is loose. The post must be replaced or re-set.
+- **Fence leaning in multiple directions (buckled):** Multiple posts have failed. This may be more cost-effective to replace the entire fence section than to dig and replace multiple posts individually.
+- **Loose or missing pickets:** The pickets have pulled free of the rails. Typically caused by rusted nails or screws, or by the rail warping.
+- **Gate sagging and dragging:** The gate hinges are pulling out of the post, the post itself is leaning, or the gate frame joints have loosened.
 
-One dedicated practitioner implemented these fence repair strategies and reported saving over $352 annually while achieving better results.
+## Fix 1: Replace a Rotted Wood Post
+![Setting a new fence post in concrete](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.NZC1vk9SL1OWd8zjG2-TiwHaEA%3Fpid%3DApi&f=1&ipt=90e8b594d334787159a81192a49408cc5d4c3e36d7c09ad2cffcc4dfcff36612&ipo=images)
 
-> "I wish I had learned these fence repair techniques years ago. It completely changed my approach and saved me so much frustration." - Happy reader
+1. Remove the fence section attached to the post: unscrew or pry off the rails and pickets from the damaged post. Support the rails on the adjacent posts with temporary braces.
+2. Dig out the old post and its concrete footing. This is the hardest part. Use a post-hole digger, digging bar, and shovel. A rotted post often breaks off at ground level, leaving the concrete plug below. You can:
+   - Dig around and remove the entire concrete plug (heavy, 80–200+ pounds depending on size)
+   - Break the concrete with a sledgehammer and remove the pieces
+   - If the post rotted in the concrete leaving an accessible void, use a post-pull tool or a farm jack with a chain wrapped around the post stub to pull the remaining wood out of the concrete, then reuse the existing concrete footing with a new post
+3. Set the new post. The hole should be ⅓ the post height deep—a 6-foot fence typically requires a 2-foot-deep hole. In freeze-thaw climates, the hole must extend below the frost line (typically 36–48 inches in northern states) to prevent frost heave.
+4. Pour 6 inches of gravel into the bottom of the hole for drainage.
+5. Place the post. Use a level to plumb it in both directions. Brace the post with 2×4 stakes driven into the ground at 45-degree angles, screwed to the post.
+6. Mix and pour fast-setting concrete (Quikrete Fast-Setting, $5–7 per 50-pound bag) around the post. Add water per the bag—fast-setting concrete is poured dry into the hole and water is added afterward, eliminating the need to mix in a wheelbarrow. Slope the concrete surface away from the post so water drains away, not toward, the wood.
+7. Let the concrete cure for 4 hours (fast-setting) or 24 hours (standard) before attaching the fence rails.
+8. Reattach the fence rails and pickets to the new post.
 
-## Core Principles
+## Fix 2: Repair a Leaning Post With a Metal Spike
+![Replacing broken fence pickets](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%2Fid%2FOIP.BX7DzMGVr43hfZgXf2I5wwHaFj%3Fpid%3DApi&f=1&ipt=31064ac1c4b97239a326562d9714c355d5ac28350f9bd6d69cb404a3f516b14a&ipo=images)
 
-**Principle 1: Start With the Basics**
-Master fundamental concepts before moving to advanced techniques. A solid foundation prevents most common problems.
+If the post is solid above ground but the concrete footing has cracked and the post wobbles, a metal repair spike ($15–25) can stabilize the post without digging.
 
-**Principle 2: Consistency Is Key**
-Regular practice and attention produce better results than sporadic intensive efforts. Establish a routine.
+1. Drive a 24-inch or 30-inch metal fence post repair spike (also called a EZ-Mender or Post Buddy) into the ground directly against the post.
+2. Bolt the spike to the post with the included lag screws.
+3. The spike extends the effective depth of the post into undisturbed soil, restoring stability.
+4. This is a 15-minute fix that works for posts where the concrete footing has cracked but the post wood is still sound. It will not fix a rotted post.
 
-**Principle 3: Learn From Experience**
-Document what works and what does not. Apply lessons learned to continuously improve your approach.
+## Fix 3: Replace Broken Pickets and Rails
 
-**Principle 4: Invest in Quality**
-Quality materials and tools may cost more upfront but deliver better results and last longer.
+- Remove the damaged picket or rail. If nailed, use a cat's paw or pry bar. If screwed, unscrew.
+- Cut the replacement board to length. For pickets, match the profile (dog-ear, flat-top, Gothic point) and the wood species (typically cedar or pressure-treated pine).
+- Fasten with exterior-rated screws—not nails. Screws hold better and allow future removal without damaging the wood.
+- For rails: use joist hangers or structural screws where rails meet posts for a stronger connection than toe-nailing alone.
 
-## Step-by-Step Guide
-![Related image](https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=400&fit=crop)
+## Fix 4: Sagging Gate
 
-### Step 1: Assessment and Planning
-Evaluate your current situation. Identify specific needs, set realistic goals, and create a timeline.
-
-### Step 2: Gather Resources
-Collect necessary supplies, tools, and reference materials. Having everything ready before starting prevents interruptions.
-
-### Step 3: Follow the Process
-Execute each step methodically. Pay attention to details and do not skip preparatory steps.
-
-### Step 4: Monitor and Adjust
-Check results regularly. Make adjustments based on what you observe and learn.
-
-### Step 5: Maintain and Improve
-Ongoing maintenance prevents backsliding. Continue learning and refining your approach over time.
-
-## Common Mistakes to Avoid
-
-1. **Skipping preparation** - Always plan before acting
-2. **Rushing through steps** - Patience leads to better outcomes
-3. **Ignoring warning signs** - Address small problems before they escalate
-4. **Using wrong tools** - The right equipment makes a significant difference
-5. **Not seeking help** - When in doubt, consult expert resources
-
-## Key Takeaways
-
-Fence Repair combines knowledge, patience, and consistent practice. With the right approach, anyone can master the essentials and achieve excellent results. Start with the basics, build good habits, and keep learning.
-
-## Frequently Asked Questions
-
-### What is the most important thing to know about Fence Repair Guide?
-
-The most important aspect of fence repair guide is understanding the fundamentals before attempting advanced techniques. Start with the basics, practice consistently, and build your skills progressively.
-
-### How long does it take to see results?
-
-Most people begin seeing noticeable improvements within 2-4 weeks of consistent effort. The key is regular practice and attention to detail rather than rushing through the process.
-
-### What are the biggest mistakes beginners make?
-
-The most common mistakes include skipping preparation steps, rushing through important details, using incorrect tools or methods, and giving up too quickly when results are not immediate.
-
-### Do I need special equipment or tools?
-
-While quality tools can help, most techniques can be performed with basic, readily available equipment. Start with what you have and upgrade as your skills and needs grow.
-
-### Is professional help worth it?
-
-For complex situations or when you feel stuck, consulting an expert can save significant time and prevent costly mistakes. Many professionals offer affordable consultations.
-
-
-## Related Articles
-
-- [How to Deck Repair And Maintenance: Complete Guide for Beginners](/articles/deck-repair-and-maintenance-guide)
-- [Replace Bathroom Tile: 10 Expert Tips and Tricks](/articles/replace-bathroom-tile-tips)
-- [Deck Repair And Maintenance: 10 Expert Tips and Tricks](/articles/deck-repair-and-maintenance-tips)
+1. Tighten all hinge screws. If the screws spin, the holes are stripped—fill with toothpicks and exterior wood glue, let dry, and reinstall.
+2. If the gate post is leaning, fix the post first (see above). A gate post carries far more load than a line post.
+3. Install an anti-sag gate kit ($15–25): a diagonal cable or metal turnbuckle from the bottom hinge corner to the top latch corner. Tightening the turnbuckle pulls the gate square.
+4. Adjust the gate hinges: most gate hinges have slotted holes that allow the gate to be shifted up/down and in/out relative to the post.
+5. For severe sag, replace the hinges with heavy-duty adjustable hinges ($20–$30/pair) that support more weight and provide more adjustment range.
